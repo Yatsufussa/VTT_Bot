@@ -1,0 +1,13 @@
+aiogram
+transformers
+torchaudio
+SQLAlchemy
+pandas
+torch
+fastapi
+psycopg2
+aiohttp
+pydub
+librosa
+datasets
+transformers[torch]
